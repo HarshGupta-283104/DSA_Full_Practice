@@ -9,5 +9,10 @@ public class StringMethod {
         System.out.println(name.toLowerCase());
 
         System.out.println(name.toUpperCase());
+
+        System.out.println("I will use here trim method.");
+        String NonTrimString = "         Harsh      ";
+
+        System.out.println(NonTrimString.trim());
     }
 }
