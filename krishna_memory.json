@@ -1,0 +1,19 @@
+{
+    "messages": [
+        {
+            "timestamp": "2025-05-09 16:17:02.279915",
+            "user": "Hello",
+            "krishna": "Radhe Radhe Harsh, tu bola: 'Hello'\nKrishna kehta hai: Tu sahi raaste pe hai. Bas ruk mat."
+        },
+        {
+            "timestamp": "2025-05-09 16:17:13.419845",
+            "user": "Radhe Radhe ",
+            "krishna": "Radhe Radhe Harsh, tu bola: 'Radhe Radhe '\nKrishna kehta hai: Tu sahi raaste pe hai. Bas ruk mat."
+        },
+        {
+            "timestamp": "2025-05-09 16:17:33.756804",
+            "user": "Ok Are you working good",
+            "krishna": "Radhe Radhe Harsh, tu bola: 'Ok Are you working good'\nKrishna kehta hai: Tu sahi raaste pe hai. Bas ruk mat."
+        }
+    ]
+}
