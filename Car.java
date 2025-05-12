@@ -29,10 +29,13 @@ class CarDetails {
     String FuelType;
     String CarType;
 
-    Public void displayDetails() {
+    public void displayDetails() {
         System.out.println("Your Car Details are:");
-        System.out.println("Name: " + this.Name + "CarSize: " + this.Size + "CarColor: " + this.Color + "Fuel Capacity: " + this.fuelCapacity + "Fuel Type: " + this.FuelType + "Car Type: " + this.CarType); 
+        System.out.println("Name: " + this.Name);
+        System.out.println("Car Size: " + this.Size);
+        System.out.println("Car Color: " + this.Color);
+        System.out.println("Fuel Capacity: " + this.fuelCapacity);
+        System.out.println("Fuel Type: " + this.FuelType);
+        System.out.println("Car Type: " + this.CarType);
     }
-
-    
 }
